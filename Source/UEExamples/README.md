@@ -7,3 +7,7 @@
 
 [https://www.zhihu.com/people/ldlan/posts](https://www.zhihu.com/people/ldlan/posts)
 
+# 设计模式
+## 参考
+[https://www.cnblogs.com/shiroe/p/14854347.html](https://www.cnblogs.com/shiroe/p/14854347.html)
+[https://gameprogrammingpatterns.com](https://gameprogrammingpatterns.com/command.html)
