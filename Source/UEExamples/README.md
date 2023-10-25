@@ -5,9 +5,11 @@
 ## 模块
 逻辑模块使用目录分隔，有的喜欢区分公开或私有目录(public/private)区分头文件和定义文件，这个项目将头文件和源码放在一起
 
-[https://www.zhihu.com/people/ldlan/posts](https://www.zhihu.com/people/ldlan/posts)
+## 相关文章
+[https://www.zhihu.com/people/ldlan/posts](https://www.zhihu.com/people/ldlan/posts)  
+[https://www.hrlnldy.cn/](https://www.hrlnldy.cn/)  
 
 # 设计模式
-## 参考
-[https://www.cnblogs.com/shiroe/p/14854347.html](https://www.cnblogs.com/shiroe/p/14854347.html)
-[https://gameprogrammingpatterns.com](https://gameprogrammingpatterns.com/command.html)
+## 参考 
+[https://www.cnblogs.com/shiroe/p/14854347.html](https://www.cnblogs.com/shiroe/p/14854347.html)  
+[https://gameprogrammingpatterns.com](https://gameprogrammingpatterns.com/command.html)  

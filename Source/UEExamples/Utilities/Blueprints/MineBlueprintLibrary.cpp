@@ -31,10 +31,9 @@ bool UMineBlueprintLibrary::IsServer(UObject* WorldContextObject)
 
 void UMineBlueprintLibrary::Quit(UObject* WorldContextObject)
 {
-	UKismetSystemLibrary::QuitGame(WorldContextObject, nullptr, EQuitPreference::Quit, true);
+	FPlatformMisc::RequestExit(true);
 
 	// Or
-
-	FPlatformMisc::RequestExit(true);
+	// UKismetSystemLibrary::QuitGame(WorldContextObject, nullptr, EQuitPreference::Quit, true);
 }
 
